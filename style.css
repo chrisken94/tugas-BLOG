@@ -1,0 +1,23 @@
+body {
+    background: url(img/bush.png);
+}
+
+#header {
+    margin-top: 10px;
+    height: 280px;
+    background: url(img/CLOUD.jpg);
+}
+
+#menu {
+    
+    background-color: #d2e5e9;
+    padding: 10px;
+}
+
+.card {
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+#desc {
+    background-color: white;
+}
